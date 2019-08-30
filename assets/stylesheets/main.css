@@ -201,6 +201,14 @@ body {
 	*zoom: 1;
 }
 
+/* Rows */
+
+.row {
+	background: #fff;
+	min-width: 960px;
+	padding: 66px 0 44px 0;
+}
+
 /* Typography */
 
 h1,
