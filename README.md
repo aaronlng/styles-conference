@@ -1,3 +1,3 @@
 # styles-conference
 
-> stopped at lesson 7
+> stopped at lesson 8
